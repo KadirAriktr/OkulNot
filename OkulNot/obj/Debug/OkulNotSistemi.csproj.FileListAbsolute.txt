@@ -1,0 +1,10 @@
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNotSistemi.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNot.Form1.resources
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNot.FrmDersler.resources
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNot.FrmKulupİslemleri.resources
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNot.FrmOgrenci.resources
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNot.FrmOgrenciNotlar.resources
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNot.FrmOgretmen.resources
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNotSistemi.Properties.Resources.resources
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNotSistemi.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\OkulNot\OkulNot\obj\Debug\OkulNotSistemi.csproj.CoreCompileInputs.cache
