@@ -44,5 +44,10 @@
 <h3>Ogrenci İşlemleri Formu</h3>
 <img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/OgrenciIslemleri.png" alt="Öğrenci İslemleri">
 
+<h3>Öğrenci Sınav Notu Güncelleme Formu</h3>
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/SinavNotlari.png" alt="Öğrenci Sınav Notları">
+
 <h3>Öğrenci Not Görüntüleme Formu</h3>
-<img src="./path_to_ogrenci_not_image" alt="Öğrenci Not Görüntüleme Formu">
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/OgrenciNotTablosu.png" alt="Öğrenci Notları">
+
+
