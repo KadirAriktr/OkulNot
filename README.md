@@ -30,7 +30,7 @@
 
 <h2>Ekran Görüntüleri</h2>
 <h3>Giriş Paneli</h3>
-<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/Giris.png" alt="Giriş Paneli">
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/Giris.png" alt="Giriş Paneli" with="600">
 <h3>Kulüp İşlemleri Paneli</h3>
 ![Ders İşlemleri Paneli](images/DersIslemleri.png)
 
