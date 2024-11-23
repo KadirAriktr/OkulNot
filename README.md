@@ -29,13 +29,14 @@
 </ol>
 
 <h2>Ekran Görüntüleri</h2>
-<h3>Giriş Ekranı</h3>
-
+<h3>Ders İşlemleri Paneli</h3>
+![Giriş](https://github.com/user-attachments/assets/84e8252a-ba61-47e2-97f0-856f6d5a8a50)
 
 <h3>Kulüp İşlemleri Paneli</h3>
-<img src="./https://github.com/user-attachments/assets/da68ed48-8cc3-4c51-bb91-31ed48ef99e8" alt="Kulüp İşlemleri Paneli">
-<h3>Ders İşlemleri Paneli</h3>
+![Kulup İşlemleri](https://github.com/user-attachments/assets/e9977d66-5d69-4ed2-9ff3-2594c83b0ad2)
 
+<h3>Giriş Ekranı</h3>
+<img src="./path_to_giris_image" alt="Giriş Ekranı">
 
 <h3>Öğretmen İşlem Seçim Paneli</h3>
 <img src="./path_to_ogretmen_islem_image" alt="Öğretmen İşlem Seçim Paneli">
