@@ -29,10 +29,8 @@
 </ol>
 
 <h2>Ekran Görüntüleri</h2>
-<h3>Ders İşlemleri Paneli</h3>
-![Giriş](![image](https://github.com/user-attachments/assets/e1f1cdf8-c80f-447d-8aba-57560c78179b)
-)
-
+<h3>Giriş Paneli</h3>
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/Giris.png" alt="Giriş Paneli">
 <h3>Kulüp İşlemleri Paneli</h3>
 ![Ders İşlemleri Paneli](images/DersIslemleri.png)
 
