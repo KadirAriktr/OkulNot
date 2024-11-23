@@ -35,13 +35,14 @@
 <h3>Öğretmen İşlem Seçim Paneli</h3>
 <img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/OgretmenGirisi.png"  alt="Öğretmen İşlem Seçim Paneli" with="600">
 <h3>Kulüp İşlemleri Paneli</h3>
-<img src="sg" alt="Kulüp İşlemleri" with="600">
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/KulupIslemleri.png" alt="Kulüp İşlemleri" with="600">
 
 
 <h3>Ders İşlemleri</h3>
 <img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/DersIslemleri.png"alt="Ders İşlemleri" with="600">
 
-
+<h3>Ogrenci İşlemleri Formu</h3>
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/OgrenciIslemleri.png" alt="Öğrenci İslemleri">
 
 <h3>Öğrenci Not Görüntüleme Formu</h3>
 <img src="./path_to_ogrenci_not_image" alt="Öğrenci Not Görüntüleme Formu">
