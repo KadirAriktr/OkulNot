@@ -33,7 +33,8 @@
 ![Giriş](https://github.com/user-attachments/assets/84e8252a-ba61-47e2-97f0-856f6d5a8a50)
 
 <h3>Kulüp İşlemleri Paneli</h3>
-![Kulup İşlemleri](https://github.com/user-attachments/assets/e9977d66-5d69-4ed2-9ff3-2594c83b0ad2)
+![Ders İşlemleri Paneli](images/Dersİslemleri.png)
+
 
 <h3>Giriş Ekranı</h3>
 <img src="./path_to_giris_image" alt="Giriş Ekranı">
