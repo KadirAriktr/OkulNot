@@ -37,8 +37,8 @@
 ![Ders İşlemleri Paneli](images/DersIslemleri.png)
 
 
-<h3>Giriş Ekranı</h3>
-<img src="[[https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/Giris.png](https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/Giri%C5%9F.png)](https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/Giris.png)" alt="Giriş Ekranı">
+<h3>Ders İşlemleri</h3>
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/DersIslemleri.png"alt="Ders İşlemleri">
 
 <h3>Öğretmen İşlem Seçim Paneli</h3>
 <img src="./path_to_ogretmen_islem_image" alt="Öğretmen İşlem Seçim Paneli">
