@@ -1,47 +1,45 @@
-Öğrenci ve Kulüp Yönetim Sistemi
-Bu uygulama, öğretmen ve öğrencilere yönelik ders, kulüp ve not yönetimini kolaylaştırmak için geliştirilmiş bir masaüstü yazılımıdır. Kullanıcı dostu arayüzü sayesinde ders ve kulüp bilgilerini düzenleyebilir, öğrenciler notlarını görüntüleyebilir ve öğretmenler çeşitli işlemleri gerçekleştirebilir. Uygulama, C# ve Windows Forms ile geliştirilmiştir.
+<h1>Öğrenci ve Kulüp Yönetim Sistemi</h1>
 
-Not: Bu proje, Murat Yücedağ'ın Udemy'de yer alan "Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti" adlı eğitim kursunda yer alan bir uygulamadır.
+<p>Bu uygulama, öğretmen ve öğrencilere yönelik ders, kulüp ve not yönetimini kolaylaştırmak için geliştirilmiş bir masaüstü yazılımıdır. Kullanıcı dostu arayüzü sayesinde ders ve kulüp bilgilerini düzenleyebilir, öğrenciler notlarını görüntüleyebilir ve öğretmenler çeşitli işlemleri gerçekleştirebilir. Uygulama, C# ve Windows Forms ile geliştirilmiştir.</p>
 
-Özellikler
-Ders İşlemleri Paneli:
+<p><strong>Not:</strong> Bu proje, <em>Murat Yücedağ</em>'ın Udemy'de yer alan <em>"Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti"</em> adlı eğitim kursunda yer alan bir uygulamadır.</p>
 
-Dersleri listeleme, ekleme, güncelleme ve silme.
-Ders ID ve adı bilgilerini yönetme.
-Kulüp İşlemleri Paneli:
+<h2>Özellikler</h2>
+<ul>
+  <li><strong>Ders İşlemleri Paneli:</strong> Dersleri listeleme, ekleme, güncelleme ve silme. Ders ID ve adı bilgilerini yönetme.</li>
+  <li><strong>Kulüp İşlemleri Paneli:</strong> Kulüpleri listeleme, ekleme, güncelleme ve silme. Kulüp ID ve adı bilgilerini düzenleme.</li>
+  <li><strong>Giriş Ekranı:</strong> Kullanıcıların öğrenci veya öğretmen olarak seçim yapabileceği basit bir giriş arayüzü. Kullanıcı numarasını girmek için giriş kutusu.</li>
+  <li><strong>Öğretmen İşlem Seçim Paneli:</strong> Öğretmenlerin ders ve kulüp yönetimi, öğrenci notlarını düzenleme gibi işlemleri seçebileceği bir ekran.</li>
+  <li><strong>Öğrenci Not Görüntüleme Formu:</strong> Öğrencilerin kendi ders notlarını kolayca görebileceği bir form.</li>
+</ul>
 
-Kulüpleri listeleme, ekleme, güncelleme ve silme.
-Kulüp ID ve adı bilgilerini düzenleme.
-Giriş Ekranı:
+<h2>Kullanılan Teknolojiler</h2>
+<ul>
+  <li><strong>Programlama Dili:</strong> C#</li>
+  <li><strong>Geliştirme Ortamı:</strong> Visual Studio</li>
+  <li><strong>Arayüz:</strong> Windows Forms</li>
+</ul>
 
-Kullanıcıların öğrenci veya öğretmen olarak seçim yapabileceği basit bir giriş arayüzü.
-Kullanıcı numarasını girmek için giriş kutusu.
-Öğretmen İşlem Seçim Paneli:
+<h2>Nasıl Kullanılır?</h2>
+<ol>
+  <li>Uygulamayı indirip çalıştırın.</li>
+  <li>Giriş ekranından uygun rolü seçin (Öğrenci veya Öğretmen).</li>
+  <li>Öğretmenler için işlem seçme ekranına geçiş yapılır ve ders/kulüp yönetimi veya not düzenleme işlemleri yapılabilir.</li>
+  <li>Öğrenciler kendi notlarını görüntüleyebilir veya diğer işlemleri gerçekleştirebilir.</li>
+</ol>
 
-Öğretmenlerin ders ve kulüp yönetimi, öğrenci notlarını düzenleme gibi işlemleri seçebileceği bir ekran.
-Öğretmenlere özelleştirilmiş seçenekler sunar.
-Öğrenci Not Görüntüleme Formu:
+<h2>Ekran Görüntüleri</h2>
+<h3>Ders İşlemleri Paneli</h3>
+<img src="./path_to_ders_islemleri_image" alt="Ders İşlemleri Paneli">
 
-Öğrencilerin kendi ders notlarını kolayca görebileceği bir form.
-Ders bazında not bilgilerini listeleme imkanı.
-Kullanılan Teknolojiler
-Programlama Dili: C#
-Geliştirme Ortamı: Visual Studio
-Arayüz: Windows Forms
-Nasıl Kullanılır?
-Uygulamayı indirip çalıştırın.
-Giriş ekranından uygun rolü seçin (Öğrenci veya Öğretmen).
-Öğretmenler için işlem seçme ekranına geçiş yapılır ve ders/kulüp yönetimi veya not düzenleme işlemleri yapılabilir.
-Öğrenciler kendi notlarını görüntüleyebilir veya diğer işlemleri gerçekleştirebilir.
-Ekran Görüntüleri
-Giriş Ekranı
-![Giriş](https://github.com/user-attachments/assets/033fa2e4-a607-4d45-b2d9-9f91aa7876bf)
+<h3>Kulüp İşlemleri Paneli</h3>
+<img src="./path_to_kulup_islemleri_image" alt="Kulüp İşlemleri Paneli">
 
+<h3>Giriş Ekranı</h3>
+<img src="./path_to_giris_image" alt="Giriş Ekranı">
 
-Kulüp İşlemleri Paneli
-Ders İşlemleri Paneli
+<h3>Öğretmen İşlem Seçim Paneli</h3>
+<img src="./path_to_ogretmen_islem_image" alt="Öğretmen İşlem Seçim Paneli">
 
-
-Öğretmen İşlem Seçim Paneli
-
-Öğrenci Not Görüntüleme Formu
+<h3>Öğrenci Not Görüntüleme Formu</h3>
+<img src="./path_to_ogrenci_not_image" alt="Öğrenci Not Görüntüleme Formu">
