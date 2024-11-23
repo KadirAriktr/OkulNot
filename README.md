@@ -6,8 +6,8 @@
 
 <h2>Özellikler</h2>
 <ul>
-  <li><strong>Ders İşlemleri Paneli:</strong> Dersleri listeleme, ekleme, güncelleme ve silme. Ders ID ve adı bilgilerini yönetme.</li>
-  <li><strong>Kulüp İşlemleri Paneli:</strong> Kulüpleri listeleme, ekleme, güncelleme ve silme. Kulüp ID ve adı bilgilerini düzenleme.</li>
+  <li><strong>Ders İşlemleri Paneli:</strong> Dersleri listeleme, ekleme, güncelleme ve silme. Ders adı bilgilerini yönetme.</li>
+  <li><strong>Kulüp İşlemleri Paneli:</strong> Kulüpleri listeleme, ekleme, güncelleme ve silme. Kulüp adı bilgilerini düzenleme.</li>
   <li><strong>Giriş Ekranı:</strong> Kullanıcıların öğrenci veya öğretmen olarak seçim yapabileceği basit bir giriş arayüzü. Kullanıcı numarasını girmek için giriş kutusu.</li>
   <li><strong>Öğretmen İşlem Seçim Paneli:</strong> Öğretmenlerin ders ve kulüp yönetimi, öğrenci notlarını düzenleme gibi işlemleri seçebileceği bir ekran.</li>
   <li><strong>Öğrenci Not Görüntüleme Formu:</strong> Öğrencilerin kendi ders notlarını kolayca görebileceği bir form.</li>
@@ -29,14 +29,13 @@
 </ol>
 
 <h2>Ekran Görüntüleri</h2>
-<h3>Ders İşlemleri Paneli</h3>
-<img src="./path_to_ders_islemleri_image" alt="Ders İşlemleri Paneli">
+<h3>Giriş Ekranı</h3>
+![Giriş](https://github.com/user-attachments/assets/da68ed48-8cc3-4c51-bb91-31ed48ef99e8)
 
 <h3>Kulüp İşlemleri Paneli</h3>
 <img src="./path_to_kulup_islemleri_image" alt="Kulüp İşlemleri Paneli">
+<h3>Ders İşlemleri Paneli</h3>
 
-<h3>Giriş Ekranı</h3>
-<img src="./path_to_giris_image" alt="Giriş Ekranı">
 
 <h3>Öğretmen İşlem Seçim Paneli</h3>
 <img src="./path_to_ogretmen_islem_image" alt="Öğretmen İşlem Seçim Paneli">
