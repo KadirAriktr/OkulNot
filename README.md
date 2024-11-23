@@ -38,7 +38,7 @@
 
 
 <h3>Giriş Ekranı</h3>
-<img src="./path_to_giris_image" alt="Giriş Ekranı">
+<img src="https://github.com/KadirAriktr/OkulNotSistemi/blob/main/images/DersIslemleri.png" alt="Giriş Ekranı">
 
 <h3>Öğretmen İşlem Seçim Paneli</h3>
 <img src="./path_to_ogretmen_islem_image" alt="Öğretmen İşlem Seçim Paneli">
