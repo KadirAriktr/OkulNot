@@ -30,7 +30,8 @@
 
 <h2>Ekran Görüntüleri</h2>
 <h3>Ders İşlemleri Paneli</h3>
-![Giriş](https://github.com/user-attachments/assets/84e8252a-ba61-47e2-97f0-856f6d5a8a50)
+![Giriş](![image](https://github.com/user-attachments/assets/e1f1cdf8-c80f-447d-8aba-57560c78179b)
+)
 
 <h3>Kulüp İşlemleri Paneli</h3>
 ![Ders İşlemleri Paneli](images/DersIslemleri.png)
