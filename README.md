@@ -30,7 +30,8 @@
 
 <h2>Ekran Görüntüleri</h2>
 <h3>Giriş Ekranı</h3>
-![Giriş](https://github.com/user-attachments/assets/da68ed48-8cc3-4c51-bb91-31ed48ef99e8)
+<img src="https://github.com/user-attachments/assets/da68ed48-8cc3-4c51-bb91-31ed48ef99e8" alt="Kulüp İşlemleri Paneli">
+https://github.com/user-attachments/assets/da68ed48-8cc3-4c51-bb91-31ed48ef99e8
 
 <h3>Kulüp İşlemleri Paneli</h3>
 <img src="./path_to_kulup_islemleri_image" alt="Kulüp İşlemleri Paneli">
